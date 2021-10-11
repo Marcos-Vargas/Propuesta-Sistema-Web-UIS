@@ -1,0 +1,4 @@
+La aplicacion se encuentra dideñada de la siguiente forma:
+En la carpeta base de datos se encuentra el carchivo exportado de "phpmyadmin" de la base de datos creada para la aplicacion
+En la capeta proyecto_db se encuentra toda la programacion de cada funcion que hasta ahora desempleña la pagina en php y mysqli.
+En la carpeta de finaltry se encuentra todo el diseño de la paggina en HTML
